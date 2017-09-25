@@ -2,7 +2,7 @@
 
 include_once('bitexthai.php');
 
-$bitexthai = new bitexthai('your-api-key','your-api-secret','2FA code is enabled');
+$bitexthai = new bitexthai('7885645f9d74','512967d05dad','2FA code is enabled');
 
 $test = 'option_history';
 
